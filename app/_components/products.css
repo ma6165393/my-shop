@@ -1,0 +1,89 @@
+
+@import "tailwindcss";
+
+body{
+@apply  bg-white 
+}
+/* الحاوية الرئيسية */
+.product-list-container {
+  @apply p-4 min-h-screen flex flex-col;
+}
+
+/* أزرار الفلترة */
+.filter-buttons {
+  @apply flex flex-wrap gap-2 mb-4;
+}
+
+.filter-btn {
+  @apply px-3 py-1 rounded-md border bg-white text-gray-700 cursor-pointer transition;
+}
+
+.filter-btn.active {
+  @apply bg-blue-600 text-white border-blue-600;
+}
+
+/* شبكة المنتجات */
+.products-grid {
+  @apply grid gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5;
+}
+
+/* كل كارت منتج */
+.product-card {
+  @apply  rounded-xl p-4  text-center hover:border-black bg-white hover:shadow-xl hover:-translate-y-2 transition;
+}
+
+.product-image {
+  @apply w-full rounded-2xl object-contain bg-white mb-2;
+  aspect-ratio: 1/1; /* مربع */
+}
+
+.font-cairo-card {
+  font-family: var(--font-cairo), sans-serif;
+  font-weight: bold
+}
+
+.product-name {
+  @apply text-sm;
+}
+
+.price-container {
+  @apply flex justify-center items-center gap-2 mt-1;
+}
+
+.old-price {
+  @apply line-through text-gray-400;
+}
+
+.current-price {
+  @apply font-semibold text-gray-800;
+}
+
+.availability {
+  @apply text-xs mt-1;
+}
+
+/* زر الشراء */
+.buy-btn {
+  @apply inline-flex items-center justify-center gap-1 mt-2 px-3 py-1 bg-red-500 text-white rounded-md text-sm font-semibold hover:bg-green-700 transition;
+}
+
+/* الصفحات */
+.pagination {
+  @apply flex justify-center mt-4 gap-2;
+}
+
+.page-btn {
+  @apply px-3 py-1 rounded-md border bg-white text-gray-700 cursor-pointer transition;
+}
+
+.page-btn.active {
+  @apply bg-blue-600 text-white border-blue-600;
+}
+
+.card {
+  @apply  rounded-xl p-4  text-center border-black bg-white hover:shadow-xl;
+}
+
+.nav-but{
+  @apply text-white  cursor-pointer hover:bg-blue-300 rounded-2xl p-3 hover:text-black
+}
