@@ -5,7 +5,7 @@
       "items": [
         {
           "id": 1456,
-          "name": "فرن سيلفر كريست 15 لتر",
+          "name": "فرن سيلفر كريست 15 لتر + شحن مجانا",
           "price": 252,
           "oldPrice": 300,
           "currency": "ر.س",
@@ -16,7 +16,7 @@
         },
         {
           "id": 1457,
-          "name": "ستاند ملابس زاوية",
+          "name": "ستاند ملابس زاوية + شحن مجانا",
           "price": 117,
           "oldPrice": 145,
           "currency": "ر.س",
@@ -27,7 +27,7 @@
         },
         {
           "id": 1458,
-          "name": "خزانة لتنظيم الاحذية مكونة من 9 ارفف",
+          "name": "خزانة لتنظيم الاحذية مكونة من 9 ارفف + شحن مجانا",
           "price": 137,
           "oldPrice": 160,
           "currency": "ر.س",
@@ -38,13 +38,46 @@
         },
         {
           "id": 1459,
-          "name": "مجفف الملابس السحري 2 في 1 بضمان عامين",
+          "name": "مجفف الملابس السحري 2 في 1 بضمان عامين + شحن مجانا",
           "price": 162,
           "oldPrice": 195,
           "currency": "ر.س",
           "Shipping-price": "0",
           "image": "/images/image-456897233.png",
           "url": "https://damenkom-orders.com/?id=b6a73260-9cea-4a25-afb4-4dcccf7c872d",
+          "available": true
+        },
+        {
+          "id": 1757385757000,
+          "name": "مكنسة كهربائية 3 في 1 جاف ورطب ونفخ ضمان عامين 10 لتر + الشحن مجانا",
+          "price": "251",
+          "oldPrice": "300",
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "https://media.taager.com/8acefab2-5706-4782-88ae-9e08ee888ff8.jpg",
+          "url": "https://damenkom-orders.com/?id=b923bd33-0293-429f-918a-8f6032ff7b7a",
+          "available": true
+        },
+        {
+          "id": 1757388523510,
+          "name": "موزع روائح عطرية و مرطب رذاذ + شحن مجانا",
+          "price": "152",
+          "oldPrice": "210",
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "https://media.taager.com/b88a5bcf-09f2-412b-9b12-054562106949.jpg",
+          "url": "https://damenkom-orders.com/?id=90f4d94e-e627-4f2f-952e-28c7d6ddd977",
+          "available": true
+        },
+        {
+          "id": 1757388675251,
+          "name": "ماكينة الحلاقة المتكاملة من Denx (ضمان عامين) + شحن مجاني",
+          "price": "147",
+          "oldPrice": "205",
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "https://media.taager.com/6ad9199e-10d1-45c6-88dd-c2a416fee8e5.jpg",
+          "url": "https://damenkom-orders.com/?id=2d2c57f6-fda9-44e1-b09d-37d18d10b47b",
           "available": true
         }
       ]
@@ -54,7 +87,7 @@
       "items": [
         {
           "id": 20128,
-          "name": "أداة لإزالة صدمات السيارة",
+          "name": "أداة لإزالة صدمات السيارة + شحن مجانا",
           "price": 112,
           "oldPrice": 224,
           "currency": "ر.س",
@@ -65,7 +98,7 @@
         },
         {
           "id": 1757296721626,
-          "name": "جهاز تلميع السيارة",
+          "name": "جهاز تلميع السيارة + شحن مجانا",
           "price": "122",
           "oldPrice": "145",
           "currency": "ر.س",
@@ -81,13 +114,57 @@
       "items": [
         {
           "id": 20158,
-          "name": "زيت نمو اللحية + درما رولر مجانا",
+          "name": "زيت نمو اللحية + درما رولر مجانا + شحن مجانا",
           "price": 116,
           "oldPrice": 130,
           "currency": "ر.س",
           "Shipping-price": "0",
           "image": "/images/image-15462.png",
           "url": "https://damenkom-orders.com/?id=8ecf08c4-3181-4cf6-bb77-7cd411b9282b",
+          "available": true
+        },
+        {
+          "id": 1757388071765,
+          "name": "كريم العين ضد الهالات والتجاعيد والترهلات + هدية مجانية + شحن مجاني",
+          "price": "132",
+          "oldPrice": "150",
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "https://media.taager.com/5d1083f4-d739-400a-93eb-0adba3517bd5.jpg",
+          "url": "https://damenkom-orders.com/?id=cb65968e-bfb0-47cd-a4f4-f45efa3db976",
+          "available": true
+        },
+        {
+          "id": 1757388250925,
+          "name": "سيروم ماريا لعلاج آثار الحبوب والتجاعيد + هدية مجانية + شحن مجاني",
+          "price": "122",
+          "oldPrice": "160",
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "https://media.taager.com/9318c99d-82d7-4266-9c7c-8198c57219b8.jpg",
+          "url": "https://damenkom-orders.com/?id=a94314d0-fa65-4829-a6e4-f2380ef63ec1",
+          "available": true
+        },
+        {
+          "id": 1757388397447,
+          "name": "جهاز تدليك الساق بضغط الهواء + شحن مجانا",
+          "price": "222",
+          "oldPrice": "275",
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "https://media.taager.com/97efb363-756d-440e-b374-b8a6240a8836.jpg",
+          "url": "https://damenkom-orders.com/?id=921796f5-a1c4-468e-b9f3-9673d5fc0d3d",
+          "available": true
+        },
+        {
+          "id": 1757388843062,
+          "name": "فرشاة التصفيف 4 في 1 – تجفيف وتنعيم مع تكثيف + شحن مجاني",
+          "price": "122",
+          "oldPrice": "160",
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "https://media.taager.com/692f2f37-6e34-4f49-a10d-e2977c6fadf2.jpg",
+          "url": "https://damenkom-orders.com/?id=b3773a8e-9b6d-4055-864a-8eebc91879ed",
           "available": true
         }
       ]
@@ -97,7 +174,7 @@
       "items": [
         {
           "id": 1,
-          "name": "معاطف بياقة قائمة للرجال",
+          "name": "معاطف بياقة قائمة للرجال + شحن مجانا",
           "price": 218,
           "oldPrice": 300,
           "currency": "ر.س",
@@ -113,7 +190,7 @@
       "items": [
         {
           "id": 1757201392890,
-          "name": "اسدال",
+          "name": "اسدال + شحن مجانا",
           "price": "112",
           "oldPrice": "155",
           "currency": "ر.س",
@@ -129,7 +206,7 @@
       "items": [
         {
           "id": 561,
-          "name": "أحذية جلدية رجالية أنيقة كلاسيكية",
+          "name": "أحذية جلدية رجالية أنيقة كلاسيكية + شحن مجانا",
           "price": 171,
           "oldPrice": 210,
           "currency": "ر.س",
@@ -145,7 +222,7 @@
       "items": [
         {
           "id": 2548,
-          "name": "حقيبة يد كروس",
+          "name": "حقيبة يد كروس + شحن مجانا",
           "price": 155,
           "oldPrice": 210,
           "currency": "ر.س",
@@ -156,7 +233,7 @@
         },
         {
           "id": 1757197295118,
-          "name": "قبعات شتوية سميكة مقاومة للماء مصنوعة من الجلد",
+          "name": "قبعات شتوية سميكة مقاومة للماء مصنوعة من الجلد + شحن مجانا",
           "price": "181",
           "oldPrice": "230",
           "currency": "ر.س",
