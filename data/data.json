@@ -166,6 +166,60 @@
           "image": "https://media.taager.com/692f2f37-6e34-4f49-a10d-e2977c6fadf2.jpg",
           "url": "https://damenkom-orders.com/?id=b3773a8e-9b6d-4055-864a-8eebc91879ed",
           "available": true
+        },
+        {
+          "id": 1757445952851,
+          "name": "باندل الرجل العصري – ماكينة تحديد الشعر + عطر فينوم رول أون هدية + شحن مجاني",
+          "price": "97",
+          "oldPrice": "180",
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "https://media.taager.com/d423c2f5-761d-4002-88cc-e2e837908c60.jpg",
+          "url": "https://damenkom-orders.com/?id=9415dc27-0358-495a-a4dc-3d216d960860",
+          "available": true
+        }
+      ]
+    },
+    {
+      "category": "العطور",
+      "items": [
+        {
+          "id": 10354895,
+          "name": " عطر كوشتان + الشحن مجانا",
+          "price": 324,
+          "oldPrice": 360,
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "/images/otor.jpeg",
+          "url": "https://damenkom-orders.com?id=4b2b7250-0a7b-48fe-8a18-8513e0b760bc",
+          "available": true
+        },
+        {
+          "id": 1757445678824,
+          "name": "عطر فينوم فيرومون رول اون للرجال + الشحن مجانا",
+          "price": "97",
+          "oldPrice": "145",
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "https://media.taager.com/952801f6-efe8-496d-9463-bd72c61109b5.jpeg",
+          "url": "https://damenkom-orders.com/?id=f4ddf0c0-0d59-43c1-9d34-feb34e5bf115",
+          "available": true
+        }
+      ]
+    },
+    {
+      "category":"إلكترونيات",
+      "items": [
+        {
+          "id": 146215,
+          "name": "معاطف بياقة قائمة للرجال + شحن مجانا",
+          "price": 237,
+          "oldPrice": 300,
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "/images/tap.jpg",
+          "url": "https://damenkom-orders.com/?id=cc9c738e-297b-49e6-a13c-ecd07d63e782",
+          "available": true
         }
       ]
     },

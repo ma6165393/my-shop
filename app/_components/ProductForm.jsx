@@ -50,6 +50,8 @@ export default function ProductForm({ product, onSave, onCancel }) {
           <option value="الأجهزه المنزلية">الأجهزه المنزلية</option>
           <option value="مستلزمات السيارات">مستلزمات السيارات</option>
           <option value="العناية الشخصية">العناية الشخصية</option>
+          <option value="العطور">العطور</option>
+          <option value="إلكترونيات">إلكترونيات</option>
           <option value="ملابس رجالي">ملابس رجالي</option>
           <option value="ملابس حريمي">ملابس حريمي</option>
           <option value="أحذية">أحذية</option>
