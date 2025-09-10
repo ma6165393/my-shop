@@ -68,17 +68,6 @@
           "image": "https://media.taager.com/b88a5bcf-09f2-412b-9b12-054562106949.jpg",
           "url": "https://damenkom-orders.com/?id=90f4d94e-e627-4f2f-952e-28c7d6ddd977",
           "available": true
-        },
-        {
-          "id": 1757388675251,
-          "name": "ماكينة الحلاقة المتكاملة من Denx (ضمان عامين) + شحن مجاني",
-          "price": "147",
-          "oldPrice": "205",
-          "currency": "ر.س",
-          "Shipping-price": "0",
-          "image": "https://media.taager.com/6ad9199e-10d1-45c6-88dd-c2a416fee8e5.jpg",
-          "url": "https://damenkom-orders.com/?id=2d2c57f6-fda9-44e1-b09d-37d18d10b47b",
-          "available": true
         }
       ]
     },
@@ -110,19 +99,8 @@
       ]
     },
     {
-      "category": "العناية الشخصية",
+      "category": "العناية الشخصية للنساء",
       "items": [
-        {
-          "id": 20158,
-          "name": "زيت نمو اللحية + درما رولر مجانا + شحن مجانا",
-          "price": 116,
-          "oldPrice": 130,
-          "currency": "ر.س",
-          "Shipping-price": "0",
-          "image": "/images/image-15462.png",
-          "url": "https://damenkom-orders.com/?id=8ecf08c4-3181-4cf6-bb77-7cd411b9282b",
-          "available": true
-        },
         {
           "id": 1757388071765,
           "name": "كريم العين ضد الهالات والتجاعيد والترهلات + هدية مجانية + شحن مجاني",
@@ -166,17 +144,6 @@
           "image": "https://media.taager.com/692f2f37-6e34-4f49-a10d-e2977c6fadf2.jpg",
           "url": "https://damenkom-orders.com/?id=b3773a8e-9b6d-4055-864a-8eebc91879ed",
           "available": true
-        },
-        {
-          "id": 1757445952851,
-          "name": "باندل الرجل العصري – ماكينة تحديد الشعر + عطر فينوم رول أون هدية + شحن مجاني",
-          "price": "97",
-          "oldPrice": "180",
-          "currency": "ر.س",
-          "Shipping-price": "0",
-          "image": "https://media.taager.com/d423c2f5-761d-4002-88cc-e2e837908c60.jpg",
-          "url": "https://damenkom-orders.com/?id=9415dc27-0358-495a-a4dc-3d216d960860",
-          "available": true
         }
       ]
     },
@@ -208,7 +175,7 @@
       ]
     },
     {
-      "category":"إلكترونيات",
+      "category": "إلكترونيات",
       "items": [
         {
           "id": 146215,
@@ -219,6 +186,55 @@
           "Shipping-price": "0",
           "image": "/images/tap.jpg",
           "url": "https://damenkom-orders.com/?id=cc9c738e-297b-49e6-a13c-ecd07d63e782",
+          "available": true
+        },
+        {
+          "id": 1757466195206,
+          "name": "سيارة روبوت ذكية بريموت كنترول + شحن مجاني",
+          "price": "205",
+          "oldPrice": "310",
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "https://media.taager.com/515d7a4a-ee1c-4b8b-b0ad-8a6b991f91f3.jpg",
+          "url": "https://damenkom-orders.com/?id=56d708a8-b1d7-4151-87b4-0b35fa891b6c",
+          "available": true
+        }
+      ]
+    },
+    {
+      "category": "العناية الشخصية للرجال",
+      "items": [
+        {
+          "id": 1757445952851,
+          "name": "باندل الرجل العصري – ماكينة تحديد الشعر + عطر فينوم رول أون هدية + شحن مجاني",
+          "price": "97",
+          "oldPrice": "180",
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "https://media.taager.com/d423c2f5-761d-4002-88cc-e2e837908c60.jpg",
+          "url": "https://damenkom-orders.com/?id=9415dc27-0358-495a-a4dc-3d216d960860",
+          "available": true
+        },
+                {
+          "id": 20158,
+          "name": "زيت نمو اللحية + درما رولر مجانا + شحن مجانا",
+          "price": 116,
+          "oldPrice": 130,
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "/images/image-15462.png",
+          "url": "https://damenkom-orders.com/?id=8ecf08c4-3181-4cf6-bb77-7cd411b9282b",
+          "available": true
+        },
+                {
+          "id": 1757388675251,
+          "name": "ماكينة الحلاقة المتكاملة من Denx (ضمان عامين) + شحن مجاني",
+          "price": "147",
+          "oldPrice": "205",
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "https://media.taager.com/6ad9199e-10d1-45c6-88dd-c2a416fee8e5.jpg",
+          "url": "https://damenkom-orders.com/?id=2d2c57f6-fda9-44e1-b09d-37d18d10b47b",
           "available": true
         }
       ]

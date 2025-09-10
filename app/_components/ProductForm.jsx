@@ -47,6 +47,8 @@ export default function ProductForm({ product, onSave, onCancel }) {
           required
         >
           <option value="">-- اختر الفئة --</option>
+          <option value="العناية الشخصية للنساء">العناية الشخصية للنساء</option>
+          <option value="العناية الشخصية للرجال">العناية الشخصية للرجال</option>
           <option value="الأجهزه المنزلية">الأجهزه المنزلية</option>
           <option value="مستلزمات السيارات">مستلزمات السيارات</option>
           <option value="العناية الشخصية">العناية الشخصية</option>
