@@ -95,6 +95,28 @@
           "image": "https://media.taager.com/adc3176d-6869-49aa-a1ae-ca47582c53ab.jpg",
           "url": "https://damenkom-orders.com/?id=eece3bfa-8c72-4c13-9dfa-76719cbf8c1a",
           "available": true
+        },
+        {
+          "id": 1757479915342,
+          "name": "باور بانك للسيارة جامب ستارتر + الشحن مجانا",
+          "price": "183",
+          "oldPrice": "203",
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "https://media.taager.com/660e27c0-4999-4d5b-aa10-9cc60372b89b.jpg",
+          "url": "https://damenkom-orders.com/?id=e9eb4316-9230-4a03-b379-86723ec2a2a7",
+          "available": true
+        },
+        {
+          "id": 1757480080988,
+          "name": "بوكس هدية السيارة المتكامل + شحن مجاني",
+          "price": "265",
+          "oldPrice": "293",
+          "currency": "ر.س",
+          "Shipping-price": "0",
+          "image": "https://media.taager.com/a6bf2c7f-8821-454b-bf9e-38a0a41d8994.jpg",
+          "url": "https://damenkom-orders.com/?id=ed86d58a-1167-43e1-b921-d75b4d8a030c",
+          "available": true
         }
       ]
     },
@@ -179,8 +201,8 @@
       "items": [
         {
           "id": 146215,
-          "name": "معاطف بياقة قائمة للرجال + شحن مجانا",
-          "price": 237,
+          "name": " تابلت A20 (ضمان 6 شهور) + شحن مجانا",
+          "price": "240",
           "oldPrice": 300,
           "currency": "ر.س",
           "Shipping-price": "0",
@@ -215,7 +237,7 @@
           "url": "https://damenkom-orders.com/?id=9415dc27-0358-495a-a4dc-3d216d960860",
           "available": true
         },
-                {
+        {
           "id": 20158,
           "name": "زيت نمو اللحية + درما رولر مجانا + شحن مجانا",
           "price": 116,
@@ -226,7 +248,7 @@
           "url": "https://damenkom-orders.com/?id=8ecf08c4-3181-4cf6-bb77-7cd411b9282b",
           "available": true
         },
-                {
+        {
           "id": 1757388675251,
           "name": "ماكينة الحلاقة المتكاملة من Denx (ضمان عامين) + شحن مجاني",
           "price": "147",
